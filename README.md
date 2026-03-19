@@ -1,6 +1,6 @@
 # 🧠 About Me  
-🚀 Passionate Bukkit developer from Germany  
-🤝 Looking to collaborate on Bukkit plugins  
+🚀 Passionate developer from Germany  
+🤝 Looking to collaborate on projects
 
 ---
 
